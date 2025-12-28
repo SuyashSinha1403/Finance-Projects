@@ -16,7 +16,7 @@ to quantify upside potential and downside risk.
 - 22 trading-day forecast horizon (1-month)
 - Percentile analysis (P10, P50, P90)
 - Probability-based risk metrics
-- 
+  
 Key Outputs
 - Simulated price paths
 - Most likely (median) price trajectory

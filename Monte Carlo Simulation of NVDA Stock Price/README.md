@@ -22,7 +22,7 @@ Key Outputs
 - Most likely (median) price trajectory
 - Distribution of final prices
 - Downside and upside probabilities
-- 
+
  Sample Risk Metrics
 - P10 (Downside scenario)
 - P50 (Median outcome)

@@ -1,4 +1,3 @@
-Project Overview
 This project was completed as part of **ECON F412 – Security Analysis and Portfolio Management**
 at BITS Pilani. It applies core concepts of security analysis and portfolio management to
 Indian equity markets.

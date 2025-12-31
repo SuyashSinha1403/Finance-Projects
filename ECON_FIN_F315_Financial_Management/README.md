@@ -1,4 +1,3 @@
-Project Overview
 This project was completed as part of **ECON / FIN F315 – Financial Management** at BITS Pilani.
 The objective of the assignment was to evaluate the financial performance, capital structure,
 and overall financial health of a company using historical financial and market data.
